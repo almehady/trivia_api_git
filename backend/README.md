@@ -1,7 +1,7 @@
 ## How to run backend app
 
-1. create virtualenv 
-2. activate virtualenv
-3. install requirements.txt
-4. update the database local connection
-5. run flask server
+1. Create virtualenv 
+2. Activate virtualenv
+3. Install requirements.txt
+4. Update the database local connection
+5. Run the flask server
