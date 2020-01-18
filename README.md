@@ -11,6 +11,8 @@ Tasks Completed:
 3. Complete full documentation of the API and post on the repo's README.
 4. Deploy REACT front-end and test the web application works as expected.
 
+# How to run the app | please find the respective document in README.md folder. i.e. frontend/README.md or backend/README.md
+
 API Documentation:
 ```
 Endpoints
