@@ -5,7 +5,7 @@
 
 Goal: Build a RESTful API and ensure that it connects and responds successfully to the REACT front-end. Test the API using Python Unittest and fully document the API in the project readme file.
 
-Tasks Completed:
+### Tasks Completed:
 1. Build RESTful API using Python, Flask & SQLAlchemy. API contains GET, POST, PATCH and DELETE endpoints and is complete with appropriate error handlers.
 2. Build test script using unittest. Deploy a test database and ensure all endpoints and error handlers are behaving as expected.
 3. Complete full documentation of the API and post on the repo's README.
